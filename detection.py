@@ -218,16 +218,3 @@ def dimension_converter(cx,cy):
     else:
         cy = 1
     return cx,cy
-
-
-
-
-
-
-
-
-
-
-
-
-
